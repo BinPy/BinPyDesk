@@ -1,0 +1,3 @@
+[submodule "BinPy"]
+	path = BinPy
+	url = https://github.com/BinPy/BinPy
